@@ -23,4 +23,6 @@ We are currently seeking proposals to engage with a research scientist consultan
 
 ## How to enquire & process
 
-Please send enquiries and evidence of your scientific consultancy experience to [dsl-research@pluralsight.com](mailto:dsl-research@pluralsight.com?subject=DSL%20Principal%20Research%20Scientist%20CfP). If available, we welcome seeing a research portfolio, project websites, or consultancy services materials. 
+Please send enquiries and evidence of your scientific consultancy experience to [cat-hicks@pluralsight.com](mailto:cat-hicks@pluralsight.com?subject=DSL%20Principal%20Research%20Scientist%20CfP)[^1]. If available, we welcome seeing a research portfolio, project websites, or consultancy services materials. 
+
+[^1]: Please not that there was an error with previous address here. If you emailed us at a different address, please get in touch again. Thank you!
